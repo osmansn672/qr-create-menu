@@ -1,0 +1,29 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "title": "Ana Sayfa",
+            "icon": "Home",
+            "route":"/dashboard"
+          },
+          {
+            "id": 2,
+            "title": "Ürün Yönetimi",
+            "icon": "Product",
+            "route":"/product"
+          },
+          {
+            "id": 3,
+            "title": "QR Kodum",
+            "icon": "QrCode",
+            "route":"/qrcode"
+          },
+          {
+            "id": 4,
+            "title": "Hesap",
+            "icon": "Account",
+            "route":"/account"
+          }
+    ]
+}
+
